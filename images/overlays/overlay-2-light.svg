@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="999.9999999999999" height="999.9999999999999" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <linearGradient id="svg_7" spreadMethod="pad" x1="0.346375" y1="0.789063" x2="0.545593" y2="0.789063">
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect opacity="0.5" fill="url(#svg_7)" stroke="#ffffff" stroke-width="0" x="0" y="-1" width="1000" height="1000" id="svg_1"/>
+ </g>
+</svg>
